@@ -1,11 +1,9 @@
 alunos = []
 
-
 def exibir_titulo(texto):
     print("\n" + "=" * 42)
     print(texto.center(42))
     print("=" * 42)
-
 
 def organizar_alunos():
     alunos.sort(key=str.casefold)
