@@ -1,0 +1,3 @@
+# Cache e arquivos temporários do Python
+__pycache__/
+.env
