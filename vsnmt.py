@@ -1,3 +1,4 @@
+# Grupo: Julia e Ágatha
 alunos = []
 
 def exibir_titulo(texto):
